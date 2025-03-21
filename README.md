@@ -1,4 +1,4 @@
-projeto-HelloWorld/
+projeto-Hello_World/
 ├── README.md
 ├── src/
 │   └── main.js
